@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Thomas Lazarus</title>
+    <link>https://lazarust.github.io/Portfolio/post/</link>
+    <description>Recent content in Projects on Thomas Lazarus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://lazarust.github.io/Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>(Planned Project) Briggs Personality Predictor</title>
+      <link>https://lazarust.github.io/Portfolio/post/personality_predictor/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lazarust.github.io/Portfolio/post/personality_predictor/</guid>
+      <description> This is a project I&amp;rsquo;m planning on tackling as the summer goes on Feel free to checkout the Github and follow along with my progress Link to Github Repository  </description>
+    </item>
+    
+    <item>
+      <title>SnakeAI</title>
+      <link>https://lazarust.github.io/Portfolio/post/snake/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lazarust.github.io/Portfolio/post/snake/</guid>
+      <description> This project is still a work in progress I have created the game of snake using Python and the pygame library I begin implementing the A* algorithm to find the shortest path to the next snack after each snack is eaten I plan to being working on a neural network to learn to play the game automatically   Link to Github Repository  </description>
+    </item>
+    
+    <item>
+      <title>Database Systems Final Project</title>
+      <link>https://lazarust.github.io/Portfolio/post/cis560/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lazarust.github.io/Portfolio/post/cis560/</guid>
+      <description> Collaborated with two other students to create a library application Front end is written in C# and the database is SQL Allows users to check in, check out, and put items on hold   Link to Github Repository  </description>
+    </item>
+    
+    <item>
+      <title>Object Oriented Programming Final Project</title>
+      <link>https://lazarust.github.io/Portfolio/post/cis400/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lazarust.github.io/Portfolio/post/cis400/</guid>
+      <description> Wrote this project in C# using Object Oriented techniques to create classes and other data structures Wrote unit tests to test every part of backend code Wrote both a front-end application and web-page using Razor Pages   Link to Github Repository  </description>
+    </item>
+    
+  </channel>
+</rss>
