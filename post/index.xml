@@ -12,12 +12,21 @@
     
     
     <item>
-      <title>(Planned Project) Briggs Personality Predictor</title>
+      <title>(Planned Project) News Summaries</title>
+      <link>https://lazarust.github.io/Portfolio/post/news_summaries/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lazarust.github.io/Portfolio/post/news_summaries/</guid>
+      <description> This is a project I plan to tackle here in the near future. I plan to web scrape news articles and the use machine learning to summarize them. An added bonuses feature I might try is to see if I could try and check the articles for false news.  </description>
+    </item>
+    
+    <item>
+      <title>Briggs Personality Predictor</title>
       <link>https://lazarust.github.io/Portfolio/post/personality_predictor/</link>
-      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://lazarust.github.io/Portfolio/post/personality_predictor/</guid>
-      <description>This is a project I&amp;rsquo;m planning on tackling as the summer goes on Feel free to checkout the Github and follow along with my progress  Link to Github Repository</description>
+      <description>Used a dataset found on Kaggle that had a personality type and social media posts Using tensorflow and keras created a model to predict a personality given the social media posts. The current highest accuracy is around 20%, so there is definite room for improvement.  Link to Github Repository</description>
     </item>
     
     <item>
