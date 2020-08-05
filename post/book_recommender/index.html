@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>(PLANNED) Book Recommendation using KNN | Thomas Lazarus</title>
+    <title>Book Recommendation using KNN | Thomas Lazarus</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="generator" content="Hugo 0.72.0" />
     
@@ -26,23 +26,26 @@
 
     
     
-    <meta property="og:title" content="(PLANNED) Book Recommendation using KNN" />
-<meta property="og:description" content="Link to Github Repository" />
+    <meta property="og:title" content="Book Recommendation using KNN" />
+<meta property="og:description" content="The purpose of this project was to experiment building a recommendation enginer with a kth-Nearest-Neighbor approach. This can be used in a variety of applications other than a book recommendation such as movie recommendation, music recommendation, shopping recommendation, etc.
+The distribution of book ratings can be seen in the below figure.   Based off that distribution I dropped all the records that had less than 250 ratings. After doing this the post-filter amount of ratings per record can be displayed like this:   When building the model I decieded on using a cosine metric and left the algorithim as auto." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://lazarust.github.io/Portfolio/post/book_recommender/" />
 <meta property="article:published_time" content="2020-07-17T00:00:00+00:00" />
 <meta property="article:modified_time" content="2020-07-17T00:00:00+00:00" />
-<meta itemprop="name" content="(PLANNED) Book Recommendation using KNN">
-<meta itemprop="description" content="Link to Github Repository">
+<meta itemprop="name" content="Book Recommendation using KNN">
+<meta itemprop="description" content="The purpose of this project was to experiment building a recommendation enginer with a kth-Nearest-Neighbor approach. This can be used in a variety of applications other than a book recommendation such as movie recommendation, music recommendation, shopping recommendation, etc.
+The distribution of book ratings can be seen in the below figure.   Based off that distribution I dropped all the records that had less than 250 ratings. After doing this the post-filter amount of ratings per record can be displayed like this:   When building the model I decieded on using a cosine metric and left the algorithim as auto.">
 <meta itemprop="datePublished" content="2020-07-17T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2020-07-17T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="4">
+<meta itemprop="wordCount" content="126">
 
 
 
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="(PLANNED) Book Recommendation using KNN"/>
-<meta name="twitter:description" content="Link to Github Repository"/>
+<meta name="twitter:title" content="Book Recommendation using KNN"/>
+<meta name="twitter:description" content="The purpose of this project was to experiment building a recommendation enginer with a kth-Nearest-Neighbor approach. This can be used in a variety of applications other than a book recommendation such as movie recommendation, music recommendation, shopping recommendation, etc.
+The distribution of book ratings can be seen in the below figure.   Based off that distribution I dropped all the records that had less than 250 ratings. After doing this the post-filter amount of ratings per record can be displayed like this:   When building the model I decieded on using a cosine metric and left the algorithim as auto."/>
 
 	
   </head>
@@ -132,7 +135,7 @@
 
       <div class="tc-l pv6 ph3 ph4-ns">
         
-          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">(PLANNED) Book Recommendation using KNN</h1>
+          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">Book Recommendation using KNN</h1>
           
         
       </div>
@@ -156,7 +159,7 @@
 
 
 
-      <h1 class="f1 athelas mt3 mb1">(PLANNED) Book Recommendation using KNN</h1>
+      <h1 class="f1 athelas mt3 mb1">Book Recommendation using KNN</h1>
       
       
       <time class="f6 mv4 dib tracked" datetime="2020-07-17T00:00:00Z">July 17, 2020</time>
@@ -164,7 +167,30 @@
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p><a href="https://github.com/lazarust/BookRecommender">Link to Github Repository</a></p>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>The purpose of this project was to experiment building a recommendation enginer with a kth-Nearest-Neighbor approach. This can be used in a variety of applications other than a book recommendation such as movie recommendation, music recommendation, shopping recommendation, etc.</p>
+<p>The distribution of book ratings can be seen in the below figure.
+<figure>
+    <img src="https://lazarust.github.io/Portfolio/images/book_recommendation/ratings_bar.png"/> 
+</figure>
+</p>
+<p>Based off that distribution I dropped all the records that had less than 250 ratings. After doing this the post-filter
+amount of ratings per record can be displayed like this:
+<figure>
+    <img src="https://lazarust.github.io/Portfolio/images/book_recommendation/post_filter_review_count.png"/> 
+</figure>
+</p>
+<p>When building the model I decieded on using a cosine metric and left the algorithim as auto. After fitting the model I used np.random.choice to randomly choose items and find the recommendations.</p>
+<p>The book that was used to find recommendations:
+<figure>
+    <img src="https://lazarust.github.io/Portfolio/images/book_recommendation/search.png"/> 
+</figure>
+</p>
+<p>Recommendations:
+<figure>
+    <img src="https://lazarust.github.io/Portfolio/images/book_recommendation/results.png"/> 
+</figure>
+</p>
+<p><a href="https://github.com/lazarust/BookRecommender">Link to Github Repository</a></p>
 <ul class="pa0">
   
 </ul>

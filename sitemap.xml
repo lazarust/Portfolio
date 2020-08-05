@@ -3,14 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lazarust.github.io/Portfolio/post/book_recommender/</loc>
-    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
+    <loc>https://lazarust.github.io/Portfolio/post/100days/days_1-5/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://lazarust.github.io/Portfolio/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lazarust.github.io/Portfolio/post/book_recommender/</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
