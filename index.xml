@@ -6,10 +6,19 @@
     <description>Recent content on Thomas Lazarus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lazarust.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>100 Days of Code Days 6-10</title>
+      <link>https://lazarust.github.io/Portfolio/post/100days/days_6-10/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lazarust.github.io/Portfolio/post/100days/days_6-10/</guid>
+      <description>For this section of my 100 days challenge I focused on some NLP of disaster tweets. I worked on the NLP Disaster Tweets competition on Kaggle. My Kaggle Notebook. While working on this I started with this Starter Notebook. Something I learned was how to use GloVe for text vectorization. Many of the changes I did on the starter notebook were reducing some of the cleanup since they didn&amp;rsquo;t affect the models performance.</description>
+    </item>
     
     <item>
       <title>100 Days of Code Days 1-5</title>
