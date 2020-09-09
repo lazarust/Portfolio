@@ -6,10 +6,20 @@
     <description>Recent content on Thomas Lazarus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lazarust.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>100 Days of Code Days 21-25</title>
+      <link>https://lazarust.github.io/Portfolio/post/100days/days_21-25/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lazarust.github.io/Portfolio/post/100days/days_21-25/</guid>
+      <description>I am officially 25% through my challenge! I&amp;rsquo;m not necessarily completing the challenge as fast as planned, but it is still really good to spend some dedicated time working on things.
+During these last couple of days, I have spent my time learning how to implement Transformers using Hugging Face. I also was able to complete a rough proof-of-concept for my senior project! This weeks goals include building out the web scraper and decided how to distribute the results!</description>
+    </item>
     
     <item>
       <title>100 Days of Code Days 11-20</title>
