@@ -2,68 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thomas Lazarus</title>
-    <link>https://lazarust.github.io/Portfolio/</link>
+    <link>https://lazarust.github.io/</link>
     <description>Recent content on Thomas Lazarus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://lazarust.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lazarust.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Post Undergraduate Update</title>
+      <link>https://lazarust.github.io/post/post_undergrad/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lazarust.github.io/post/post_undergrad/</guid>
+      <description>As some may know, I recently graduated from college with a Bachelor&amp;rsquo;s of Science in Computer Science. I was a little worried about being able to find a job due to the craziness that was 2020. Luckily, the office I interned for during college was looking to hire a new full-time developer, and I fit right in!
+So over the past few months I have been learning about what it means to be a full-time developer and how much that differs from being just a student developer.</description>
+    </item>
+    
+    <item>
+      <title>News Article Summarizer</title>
+      <link>https://lazarust.github.io/post/news_text_summarization/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lazarust.github.io/post/news_text_summarization/</guid>
+      <description>News Text Summarization The Project The Idea The basic premise for this project was for my Capstone to get my B.S. in Computer Science. I wanted to create a site that would show summarized news articles since it there is so much and lot of people don&amp;rsquo;t have to the time to read them all. The proof of concept Jupyter Notebook can be found here.
+Current News Sites These are the current sites that are scraped and summarized:</description>
+    </item>
+    
+    <item>
       <title>Abstractive News Summarizer</title>
-      <link>https://lazarust.github.io/Portfolio/post/news_abstractive_summarization/</link>
+      <link>https://lazarust.github.io/post/news_abstractive_summarization/</link>
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lazarust.github.io/Portfolio/post/news_abstractive_summarization/</guid>
+      <guid>https://lazarust.github.io/post/news_abstractive_summarization/</guid>
       <description>News Text Summarization It&amp;rsquo;s been a while since I&amp;rsquo;ve updated this site, but I&amp;rsquo;m considering this project as the end of my 100 days of code. This project was my capstone project for my senior year at Kansas State University and I was able to learn a lot from it. I hope that I will be able to continue to work on this project in the future and keep expanding it!</description>
     </item>
     
     <item>
       <title>100 Days of Code Days 26-40</title>
-      <link>https://lazarust.github.io/Portfolio/post/100days/days_26-40/</link>
+      <link>https://lazarust.github.io/post/days_26-40/</link>
       <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lazarust.github.io/Portfolio/post/100days/days_26-40/</guid>
+      <guid>https://lazarust.github.io/post/days_26-40/</guid>
       <description>As expected this past month has been absolutely insane. Over the past 2 weeks I&amp;rsquo;ve spent my time learning how to implement ROGUE metrics for abstractive text summarization. I have also spent a good chunk of time learning how to build docker images and containers, and let me tell you, some of that stuff can be very confusing but was really fun to learn!
 I have also found a new passion for reading articles and research papers.</description>
     </item>
     
     <item>
       <title>100 Days of Code Days 21-25</title>
-      <link>https://lazarust.github.io/Portfolio/post/100days/days_21-25/</link>
+      <link>https://lazarust.github.io/post/days_21-25/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lazarust.github.io/Portfolio/post/100days/days_21-25/</guid>
+      <guid>https://lazarust.github.io/post/days_21-25/</guid>
       <description>I am officially 25% through my challenge! I&amp;rsquo;m not necessarily completing the challenge as fast as planned, but it is still really good to spend some dedicated time working on things.
 During these last couple of days, I have spent my time learning how to implement Transformers using Hugging Face. I also was able to complete a rough proof-of-concept for my senior project! This weeks goals include building out the web scraper and decided how to distribute the results!</description>
     </item>
     
     <item>
       <title>100 Days of Code Days 11-20</title>
-      <link>https://lazarust.github.io/Portfolio/post/100days/days_11-20/</link>
+      <link>https://lazarust.github.io/post/days_11-20/</link>
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lazarust.github.io/Portfolio/post/100days/days_11-20/</guid>
+      <guid>https://lazarust.github.io/post/days_11-20/</guid>
       <description>Things got a little crazy there at the beginning of August. Between the beginning of school and other things I wasn&amp;rsquo;t able to put the time into this that I have wanted to. Over the past 9 days I have been starting to think of ideas for a senior project. Through these ideas I have began to look into learning how to use PyTorch instead of Tensorflow. The next steps for my 100 days will be learning how to use PyTorch specifically with BERT and GPT-2.</description>
     </item>
     
     <item>
       <title>100 Days of Code Days 6-10</title>
-      <link>https://lazarust.github.io/Portfolio/post/100days/days_6-10/</link>
+      <link>https://lazarust.github.io/post/days_6-10/</link>
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lazarust.github.io/Portfolio/post/100days/days_6-10/</guid>
+      <guid>https://lazarust.github.io/post/days_6-10/</guid>
       <description>For this section of my 100 days challenge I focused on some NLP of disaster tweets. I worked on the NLP Disaster Tweets competition on Kaggle. My Kaggle Notebook. While working on this I started with this Starter Notebook. Something I learned was how to use GloVe for text vectorization. Many of the changes I did on the starter notebook were reducing some of the cleanup since they didn&amp;rsquo;t affect the models performance.</description>
     </item>
     
     <item>
       <title>100 Days of Code Days 1-5</title>
-      <link>https://lazarust.github.io/Portfolio/post/100days/days_1-5/</link>
+      <link>https://lazarust.github.io/post/days_1-5/</link>
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lazarust.github.io/Portfolio/post/100days/days_1-5/</guid>
+      <guid>https://lazarust.github.io/post/days_1-5/</guid>
       <description>I have decided to spend an hour a day for the next 100 days sharpening my skills specifically in the data science and machine learning fields.
 For day 1 I decided to read some articles to begin brainstorming ideas for projects for these 200 days. The three articles I read with some key takeaways:
  Open-endedness: The last grand challenge you’ve never heard of  Many current evolutionary algorithms only run for a short time and converge to a solution.</description>
@@ -71,20 +91,20 @@ For day 1 I decided to read some articles to begin brainstorming ideas for proje
     
     <item>
       <title>Book Recommendation using KNN</title>
-      <link>https://lazarust.github.io/Portfolio/post/book_recommender/</link>
+      <link>https://lazarust.github.io/post/book_recommender/</link>
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lazarust.github.io/Portfolio/post/book_recommender/</guid>
+      <guid>https://lazarust.github.io/post/book_recommender/</guid>
       <description>The purpose of this project was to experiment building a recommendation enginer with a kth-Nearest-Neighbor approach. This can be used in a variety of applications other than a book recommendation such as movie recommendation, music recommendation, shopping recommendation, etc.
 The distribution of book ratings can be seen in the below figure.   Based off that distribution I dropped all the records that had less than 250 ratings. After doing this the post-filter amount of ratings per record can be displayed like this:   When building the model I decieded on using a cosine metric and left the algorithim as auto.</description>
     </item>
     
     <item>
       <title>Dog VS Cat</title>
-      <link>https://lazarust.github.io/Portfolio/post/dog_vs_cat/</link>
+      <link>https://lazarust.github.io/post/dog_vs_cat/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lazarust.github.io/Portfolio/post/dog_vs_cat/</guid>
+      <guid>https://lazarust.github.io/post/dog_vs_cat/</guid>
       <description>The purpose of this project was to familiarize myself with Tensorflow for image classification. Also switched from running the python from a python file to a jupyter notebook.
 The figure below shows the distribution of images with 1 being cat and 0 being dog.
     The accuracy after running the model for 30 epochs was around 82%
@@ -93,10 +113,10 @@ The figure below shows the distribution of images with 1 being cat and 0 being d
     
     <item>
       <title> News Summaries</title>
-      <link>https://lazarust.github.io/Portfolio/post/news_summaries/</link>
+      <link>https://lazarust.github.io/post/news_summaries/</link>
       <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lazarust.github.io/Portfolio/post/news_summaries/</guid>
+      <guid>https://lazarust.github.io/post/news_summaries/</guid>
       <description>The purpose of this project is to learn about both abstractive and extractive text summarization using NLP and deep learning.
 Extractive  This algorithim can be found in extractive.py. This algorithim works by ranking sentences based off importance and then compiles the top 50% of them.
 Abstractive  Attempted to make an abstractive model to summarize the text. Ran into an issue encoding the text for the model.</description>
@@ -104,47 +124,38 @@ Abstractive  Attempted to make an abstractive model to summarize the text. Ran i
     
     <item>
       <title>Briggs Personality Predictor</title>
-      <link>https://lazarust.github.io/Portfolio/post/personality_predictor/</link>
+      <link>https://lazarust.github.io/post/personality_predictor/</link>
       <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lazarust.github.io/Portfolio/post/personality_predictor/</guid>
+      <guid>https://lazarust.github.io/post/personality_predictor/</guid>
       <description>Used a dataset found on Kaggle that had a personality type and social media posts Using tensorflow and keras created a model to predict a personality given the social media posts. The current highest accuracy is around 20%, so there is definite room for improvement.  Link to Github Repository</description>
     </item>
     
     <item>
       <title>SnakeAI</title>
-      <link>https://lazarust.github.io/Portfolio/post/snake/</link>
+      <link>https://lazarust.github.io/post/snake/</link>
       <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lazarust.github.io/Portfolio/post/snake/</guid>
+      <guid>https://lazarust.github.io/post/snake/</guid>
       <description> This project is still a work in progress I have created the game of snake using Python and the pygame library I begin implementing the A* algorithm to find the shortest path to the next snack after each snack is eaten I plan to begin working on a neural network to learn to play the game automatically   Link to Github Repository  </description>
     </item>
     
     <item>
       <title>Database Systems Final Project</title>
-      <link>https://lazarust.github.io/Portfolio/post/cis560/</link>
+      <link>https://lazarust.github.io/post/cis560/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lazarust.github.io/Portfolio/post/cis560/</guid>
+      <guid>https://lazarust.github.io/post/cis560/</guid>
       <description> Collaborated with two other students to create a library application Front-end is written in C# and the database is SQL Allows users to check-in, checkout, and put items on hold   Link to Github Repository  </description>
     </item>
     
     <item>
       <title>Object Oriented Programming Final Project</title>
-      <link>https://lazarust.github.io/Portfolio/post/cis400/</link>
+      <link>https://lazarust.github.io/post/cis400/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lazarust.github.io/Portfolio/post/cis400/</guid>
+      <guid>https://lazarust.github.io/post/cis400/</guid>
       <description> Wrote this project in C# using Object-Oriented techniques to create classes and other data structures Wrote unit tests to test every part of backend code Wrote both a front-end application and web-page using Razor Pages   Link to Github Repository  </description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://lazarust.github.io/Portfolio/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lazarust.github.io/Portfolio/contact/</guid>
-      <description>   Find me on LinkedIn and Github!      LinkedIn: https://www.linkedin.com/in/td-lazarus/   Github: https://github.com/lazarust    </description>
     </item>
     
   </channel>

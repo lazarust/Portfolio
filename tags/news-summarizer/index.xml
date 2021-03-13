@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>news summarizer on Thomas Lazarus</title>
+    <link>https://lazarust.github.io/tags/news-summarizer/</link>
+    <description>Recent content in news summarizer on Thomas Lazarus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://lazarust.github.io/tags/news-summarizer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>News Article Summarizer</title>
+      <link>https://lazarust.github.io/post/news_text_summarization/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lazarust.github.io/post/news_text_summarization/</guid>
+      <description>News Text Summarization The Project The Idea The basic premise for this project was for my Capstone to get my B.S. in Computer Science. I wanted to create a site that would show summarized news articles since it there is so much and lot of people don&amp;rsquo;t have to the time to read them all. The proof of concept Jupyter Notebook can be found here.
+Current News Sites These are the current sites that are scraped and summarized:</description>
+    </item>
+    
+    <item>
+      <title>Abstractive News Summarizer</title>
+      <link>https://lazarust.github.io/post/news_abstractive_summarization/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lazarust.github.io/post/news_abstractive_summarization/</guid>
+      <description>News Text Summarization It&amp;rsquo;s been a while since I&amp;rsquo;ve updated this site, but I&amp;rsquo;m considering this project as the end of my 100 days of code. This project was my capstone project for my senior year at Kansas State University and I was able to learn a lot from it. I hope that I will be able to continue to work on this project in the future and keep expanding it!</description>
+    </item>
+    
+    <item>
+      <title> News Summaries</title>
+      <link>https://lazarust.github.io/post/news_summaries/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lazarust.github.io/post/news_summaries/</guid>
+      <description>The purpose of this project is to learn about both abstractive and extractive text summarization using NLP and deep learning.
+Extractive  This algorithim can be found in extractive.py. This algorithim works by ranking sentences based off importance and then compiles the top 50% of them.
+Abstractive  Attempted to make an abstractive model to summarize the text. Ran into an issue encoding the text for the model.</description>
+    </item>
+    
+  </channel>
+</rss>

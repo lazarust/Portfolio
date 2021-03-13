@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Thomas Lazarus</title>
+    <link>https://lazarust.github.io/tags/blog/</link>
+    <description>Recent content in blog on Thomas Lazarus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://lazarust.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post Undergraduate Update</title>
+      <link>https://lazarust.github.io/post/post_undergrad/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lazarust.github.io/post/post_undergrad/</guid>
+      <description>As some may know, I recently graduated from college with a Bachelor&amp;rsquo;s of Science in Computer Science. I was a little worried about being able to find a job due to the craziness that was 2020. Luckily, the office I interned for during college was looking to hire a new full-time developer, and I fit right in!
+So over the past few months I have been learning about what it means to be a full-time developer and how much that differs from being just a student developer.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>game on Thomas Lazarus</title>
+    <link>https://lazarust.github.io/tags/game/</link>
+    <description>Recent content in game on Thomas Lazarus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://lazarust.github.io/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SnakeAI</title>
+      <link>https://lazarust.github.io/post/snake/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lazarust.github.io/post/snake/</guid>
+      <description> This project is still a work in progress I have created the game of snake using Python and the pygame library I begin implementing the A* algorithm to find the shortest path to the next snack after each snack is eaten I plan to begin working on a neural network to learn to play the game automatically   Link to Github Repository  </description>
+    </item>
+    
+  </channel>
+</rss>

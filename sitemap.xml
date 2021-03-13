@@ -3,130 +3,188 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lazarust.github.io/Portfolio/post/news_abstractive_summarization/</loc>
+    <loc>https://lazarust.github.io/tags/blog/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lazarust.github.io/post/post_undergrad/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lazarust.github.io/tags/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lazarust.github.io/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lazarust.github.io/post/news_text_summarization/</loc>
+    <lastmod>2021-01-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lazarust.github.io/tags/news-summarizer/</loc>
+    <lastmod>2021-01-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lazarust.github.io/post/news_abstractive_summarization/</loc>
     <lastmod>2020-12-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lazarust.github.io/Portfolio/</loc>
-    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lazarust.github.io/Portfolio/post/100days/days_26-40/</loc>
+    <loc>https://lazarust.github.io/tags/100-days/</loc>
     <lastmod>2020-09-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lazarust.github.io/Portfolio/post/100days/days_21-25/</loc>
+    <loc>https://lazarust.github.io/post/days_26-40/</loc>
+    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lazarust.github.io/post/days_21-25/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lazarust.github.io/Portfolio/post/100days/days_11-20/</loc>
+    <loc>https://lazarust.github.io/post/days_11-20/</loc>
     <lastmod>2020-08-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lazarust.github.io/Portfolio/post/100days/days_6-10/</loc>
+    <loc>https://lazarust.github.io/post/days_6-10/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lazarust.github.io/Portfolio/post/100days/days_1-5/</loc>
+    <loc>https://lazarust.github.io/post/days_1-5/</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lazarust.github.io/Portfolio/post/book_recommender/</loc>
+    <loc>https://lazarust.github.io/post/book_recommender/</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lazarust.github.io/Portfolio/post/dog_vs_cat/</loc>
+    <loc>https://lazarust.github.io/tags/experiment/</loc>
+    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lazarust.github.io/tags/notebook/</loc>
+    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lazarust.github.io/post/dog_vs_cat/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lazarust.github.io/Portfolio/post/news_summaries/</loc>
+    <loc>https://lazarust.github.io/post/news_summaries/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lazarust.github.io/Portfolio/post/personality_predictor/</loc>
+    <loc>https://lazarust.github.io/post/personality_predictor/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lazarust.github.io/Portfolio/post/snake/</loc>
+    <loc>https://lazarust.github.io/tags/game/</loc>
     <lastmod>2020-06-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lazarust.github.io/Portfolio/post/cis560/</loc>
+    <loc>https://lazarust.github.io/post/snake/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lazarust.github.io/tags/class/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lazarust.github.io/Portfolio/post/cis400/</loc>
+    <loc>https://lazarust.github.io/post/cis560/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lazarust.github.io/post/cis400/</loc>
     <lastmod>2020-04-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lazarust.github.io/Portfolio/post/</loc>
+    <loc>https://lazarust.github.io/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lazarust.github.io/Portfolio/about/</loc>
+    <loc>https://lazarust.github.io/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lazarust.github.io/Portfolio/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lazarust.github.io/Portfolio/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lazarust.github.io/Portfolio/tags/</loc>
+    <loc>https://lazarust.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
