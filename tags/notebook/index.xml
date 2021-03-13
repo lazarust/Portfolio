@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>notebook on Thomas Lazarus</title>
+    <link>https://lazarust.github.io/tags/notebook/</link>
+    <description>Recent content in notebook on Thomas Lazarus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://lazarust.github.io/tags/notebook/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Book Recommendation using KNN</title>
+      <link>https://lazarust.github.io/post/book_recommender/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lazarust.github.io/post/book_recommender/</guid>
+      <description>The purpose of this project was to experiment building a recommendation enginer with a kth-Nearest-Neighbor approach. This can be used in a variety of applications other than a book recommendation such as movie recommendation, music recommendation, shopping recommendation, etc.
+The distribution of book ratings can be seen in the below figure.   Based off that distribution I dropped all the records that had less than 250 ratings. After doing this the post-filter amount of ratings per record can be displayed like this:   When building the model I decieded on using a cosine metric and left the algorithim as auto.</description>
+    </item>
+    
+    <item>
+      <title>Dog VS Cat</title>
+      <link>https://lazarust.github.io/post/dog_vs_cat/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lazarust.github.io/post/dog_vs_cat/</guid>
+      <description>The purpose of this project was to familiarize myself with Tensorflow for image classification. Also switched from running the python from a python file to a jupyter notebook.
+The figure below shows the distribution of images with 1 being cat and 0 being dog.
+    The accuracy after running the model for 30 epochs was around 82%
+  When running this model on a final generated test set 8 out of 10 of the returned values was correct which is expected given the accuracy.</description>
+    </item>
+    
+    <item>
+      <title>Briggs Personality Predictor</title>
+      <link>https://lazarust.github.io/post/personality_predictor/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lazarust.github.io/post/personality_predictor/</guid>
+      <description>Used a dataset found on Kaggle that had a personality type and social media posts Using tensorflow and keras created a model to predict a personality given the social media posts. The current highest accuracy is around 20%, so there is definite room for improvement.  Link to Github Repository</description>
+    </item>
+    
+  </channel>
+</rss>

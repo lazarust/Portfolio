@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>100 Days on Thomas Lazarus</title>
+    <link>https://lazarust.github.io/tags/100-days/</link>
+    <description>Recent content in 100 Days on Thomas Lazarus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://lazarust.github.io/tags/100-days/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>100 Days of Code Days 26-40</title>
+      <link>https://lazarust.github.io/post/days_26-40/</link>
+      <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lazarust.github.io/post/days_26-40/</guid>
+      <description>As expected this past month has been absolutely insane. Over the past 2 weeks I&amp;rsquo;ve spent my time learning how to implement ROGUE metrics for abstractive text summarization. I have also spent a good chunk of time learning how to build docker images and containers, and let me tell you, some of that stuff can be very confusing but was really fun to learn!
+I have also found a new passion for reading articles and research papers.</description>
+    </item>
+    
+    <item>
+      <title>100 Days of Code Days 21-25</title>
+      <link>https://lazarust.github.io/post/days_21-25/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lazarust.github.io/post/days_21-25/</guid>
+      <description>I am officially 25% through my challenge! I&amp;rsquo;m not necessarily completing the challenge as fast as planned, but it is still really good to spend some dedicated time working on things.
+During these last couple of days, I have spent my time learning how to implement Transformers using Hugging Face. I also was able to complete a rough proof-of-concept for my senior project! This weeks goals include building out the web scraper and decided how to distribute the results!</description>
+    </item>
+    
+    <item>
+      <title>100 Days of Code Days 11-20</title>
+      <link>https://lazarust.github.io/post/days_11-20/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lazarust.github.io/post/days_11-20/</guid>
+      <description>Things got a little crazy there at the beginning of August. Between the beginning of school and other things I wasn&amp;rsquo;t able to put the time into this that I have wanted to. Over the past 9 days I have been starting to think of ideas for a senior project. Through these ideas I have began to look into learning how to use PyTorch instead of Tensorflow. The next steps for my 100 days will be learning how to use PyTorch specifically with BERT and GPT-2.</description>
+    </item>
+    
+    <item>
+      <title>100 Days of Code Days 6-10</title>
+      <link>https://lazarust.github.io/post/days_6-10/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lazarust.github.io/post/days_6-10/</guid>
+      <description>For this section of my 100 days challenge I focused on some NLP of disaster tweets. I worked on the NLP Disaster Tweets competition on Kaggle. My Kaggle Notebook. While working on this I started with this Starter Notebook. Something I learned was how to use GloVe for text vectorization. Many of the changes I did on the starter notebook were reducing some of the cleanup since they didn&amp;rsquo;t affect the models performance.</description>
+    </item>
+    
+    <item>
+      <title>100 Days of Code Days 1-5</title>
+      <link>https://lazarust.github.io/post/days_1-5/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lazarust.github.io/post/days_1-5/</guid>
+      <description>I have decided to spend an hour a day for the next 100 days sharpening my skills specifically in the data science and machine learning fields.
+For day 1 I decided to read some articles to begin brainstorming ideas for projects for these 200 days. The three articles I read with some key takeaways:
+ Open-endedness: The last grand challenge you’ve never heard of  Many current evolutionary algorithms only run for a short time and converge to a solution.</description>
+    </item>
+    
+  </channel>
+</rss>
