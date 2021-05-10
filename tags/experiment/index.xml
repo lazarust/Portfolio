@@ -6,10 +6,22 @@
     <description>Recent content in experiment on Thomas Lazarus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lazarust.github.io/tags/experiment/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Movie Genre Guesser</title>
+      <link>https://lazarust.github.io/post/movie_genre_guesser/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lazarust.github.io/post/movie_genre_guesser/</guid>
+      <description>Dataset: Kaggle
+Check out the Jupyter Notebook to see better versions of the charts and code!
+Exploratory Data Analysis Analysis As you can see from the above chart, Categorical Naive Bayes was able to achieve the best results. This was what I expected after trying to work with the data to help the Logistic Regression algorithm converge.
+Overall this has been a really fun and interesting project to work on. It was fun getting to read and experiment with different algorithms along the way.</description>
+    </item>
     
     <item>
       <title>Book Recommendation using KNN</title>
